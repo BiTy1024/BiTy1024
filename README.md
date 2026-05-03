@@ -4,8 +4,6 @@ Cloud Engineer from Germany, specializing in AWS, Serverless, and Infrastructure
 
 I build scalable backend systems with event-driven architectures.
 
-🔭 Currently building [Bookhub](https://github.com/MyBookhub) – a book publishing platform.
-
 ---
 
 ### Cloud & Infrastructure
