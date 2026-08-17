@@ -1,27 +1,10 @@
 # Hi, ich bin Tillmann 👋
 
-**AI Automation Engineer** — ich automatisiere Unternehmensprozesse, mit und ohne KI.
-
 Aus einem Cloud- & Backend-Hintergrund (AWS, Serverless, IaC) baue ich Automationen,
 die echte Zeit sparen — sauber integriert, DSGVO-konform und wartbar.
 
 🔗 **[durth.dev](https://durth.dev)** &nbsp;·&nbsp; 📍 Remote im DACH-Raum &nbsp;·&nbsp; 📫 tillmann@durth.dev
 
----
-
-### Was ich automatisiere
-
-- **Buchhaltung** — KI-Belegerkennung, Zahlungsabgleich (FinTS), Übergabe an DATEV / Lexoffice
-- **Fulfillment** — Shop, Lager, Lieferanten & Versand zu einem Fluss verbunden
-- **Lead-Gen** — Crawling, Anreicherung & personalisierter Outreach
-
-### Automation & KI
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![REST / Webhooks](https://img.shields.io/badge/REST%20%2F%20Webhooks-111111?style=flat)
 
 ### Cloud & Infrastructure
 
